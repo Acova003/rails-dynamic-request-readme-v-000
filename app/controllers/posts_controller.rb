@@ -1,0 +1,1 @@
+class PostsController < ActionController::Base
